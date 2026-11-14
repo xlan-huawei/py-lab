@@ -1,0 +1,9 @@
+numpy
+pandas==3.1.0            # 3.1.1 的二进制被 Smart App Control 拦截(WinError 4551),暂勿升级
+matplotlib
+openpyxl
+python-pptx
+requests
+pytest
+ruff
+ipykernel
